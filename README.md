@@ -1,5 +1,7 @@
 # MVVM-RunTracker
 
+![mvvm](https://user-images.githubusercontent.com/48530342/118365288-b1f7c080-b5a4-11eb-9ead-a7e18582015e.png)
+
 Run Tracker App to get familiar with MVVM Design Pattern and Modern Android Components such as 
 
 *Dagger-Hilt
